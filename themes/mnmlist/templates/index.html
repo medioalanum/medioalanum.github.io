@@ -7,7 +7,11 @@
         {# First item #}
         {% if loop.first %}
             <header>
-                <h1><a href="{{ SITEURL }}" id="site-title">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a> : <a href="{{ SITEURL }}/{{ article.url }}" id="page-title">{{ article.title }}</a></h1>
+                <div class="site-identity">
+                    <a href="{{ SITEURL }}" id="site-title">{{ SITENAME }}</a>
+                    {% if SITESUBTITLE %}<span id="site-subtitle">{{ SITESUBTITLE }}</span>{% endif %}
+                </div>
+                <h1><a href="{{ SITEURL }}/{{ article.url }}" id="page-title">{{ article.title }}</a></h1>
                 {% if not HIDE_DATE %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{% endif %}
             </header>
 

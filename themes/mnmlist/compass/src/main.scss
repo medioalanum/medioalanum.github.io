@@ -107,6 +107,25 @@ header {
         border-bottom: none;
         &#page-title { font-weight: bold; }
     }
+    .site-identity {
+        font-family: Helvetica, sans-serif;
+        line-height: 1.4;
+        margin-bottom: 32px;
+    }
+    #site-title {
+        display: block;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    #site-subtitle {
+        color: #777;
+        display: block;
+        font-size: 14px;
+    }
+    h1 {
+        line-height: 1.2;
+        margin: 0 0 6px;
+    }
 }
 
 #article-list {
