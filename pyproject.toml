@@ -1,0 +1,11 @@
+[project]
+name = "medioalanum-github-io"
+version = "0.1.0"
+description = "Personal notes on Python, APIs, and software engineering"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jinja2>=3.1.6",
+    "markdown>=3.10.3",
+    "pelican>=4.12.0",
+]
