@@ -1,0 +1,71 @@
+/* Keep theme overrides outside the Elegant submodule. */
+.page-header {
+  border-bottom-color: #1f4e79;
+  color: #1f4e79;
+}
+
+/* Dracula syntax highlighting for Pygments output. */
+.highlight {
+  background: #282a36;
+  border-radius: 6px;
+  color: #f8f8f2;
+  margin-bottom: 1.5rem;
+}
+
+.highlight pre {
+  background-color: inherit;
+  border: 0;
+  color: inherit;
+  margin: 0;
+  padding: 1rem 1.25rem;
+}
+
+.highlight .hll { background-color: #44475a; }
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs { color: #6272a4; }
+.highlight .k,
+.highlight .kc,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .nt,
+.highlight .o,
+.highlight .ow { color: #ff79c6; }
+.highlight .kd,
+.highlight .kt,
+.highlight .nb,
+.highlight .nl,
+.highlight .nv,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+.highlight .vm { color: #8be9fd; }
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il { color: #ffb86c; }
+.highlight .s,
+.highlight .sa,
+.highlight .sb,
+.highlight .sc,
+.highlight .dl,
+.highlight .sd,
+.highlight .s1,
+.highlight .s2,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sr,
+.highlight .ss,
+.highlight .sx { color: #bd93f9; }
+.highlight .na,
+.highlight .nc,
+.highlight .nf,
+.highlight .fm { color: #50fa7b; }

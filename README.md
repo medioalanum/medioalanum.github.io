@@ -6,7 +6,8 @@ Read the blog at [medioalanum.github.io](https://medioalanum.github.io/).
 
 The site is generated with [Pelican](https://getpelican.com/), managed with
 [uv](https://docs.astral.sh/uv/), styled with a locally maintained version of
-the mnmlist theme, and deployed to GitHub Pages through GitHub Actions.
+the [Elegant](https://github.com/Pelican-Elegant/elegant) theme, and deployed
+to GitHub Pages through GitHub Actions.
 
 ## Requirements
 
@@ -20,9 +21,15 @@ Python is installed automatically by `uv` based on `.python-version`.
 Clone the repository and install the locked dependencies:
 
 ```bash
-git clone https://github.com/medioalanum/medioalanum.github.io.git
+git clone --recurse-submodules https://github.com/medioalanum/medioalanum.github.io.git
 cd medioalanum.github.io
 uv sync --locked
+```
+
+If the repository was cloned without submodules, initialize the theme with:
+
+```bash
+git submodule update --init --recursive
 ```
 
 Start Pelican with automatic rebuilding enabled:
@@ -82,7 +89,7 @@ Pages automatically. Its progress is available in the repository's
 
 ```text
 content/          Markdown articles
-themes/mnmlist/   Locally maintained Pelican theme
+themes/elegant/   Elegant theme Git submodule
 pelicanconf.py    Local development settings
 publishconf.py    Production settings
 output/           Generated site, not committed
