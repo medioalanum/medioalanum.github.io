@@ -13,7 +13,7 @@ declare types in a language whose appeal was that you did not have to? I wrote
 scripts, they worked, and I moved on.
 
 That approach was fine while the scripts were small enough to fit in my head.
-Then I started building a finance tracker that was slightly larger than a
+Then I started building a [finance tracker](https://github.com/medioalanum/privio) that was slightly larger than a
 weekend experiment, and the cracks appeared quickly. A function expected a
 string, but a value arriving from three files away was a number. Nothing
 crashed. The output was simply wrong, and I had to trace the value backward to

@@ -35,6 +35,8 @@ workarounds for. I have spent more hours than I'd like to admit chasing down
 why a metric looked wrong. Every time, fixing it mattered more than whatever
 feature I was supposed to be prioritizing that week.
 
+That is the reason I keep building small tools such as the [Veneto City Data API](https://github.com/medioalanum/veneto-city-data-api): working with source data makes those quality decisions concrete.
+
 Monitoring only earns its keep if it changes what you build next. A dashboard
 nobody reads during a planning meeting is just decoration.
 
