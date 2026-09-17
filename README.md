@@ -1,4 +1,13 @@
-# medioalanum
+<p align="center">
+  <img src="assets/medioalanum-notes.svg" alt="medioalanum notes" width="560">
+</p>
+
+<p align="center"><em>Notes on Python, APIs, data, and software engineering.</em></p>
+
+<p align="center">
+  <a href="https://medioalanum.github.io/"><img src="https://img.shields.io/badge/blog-read_online-e6b55d?style=flat-square" alt="Read the blog"></a>
+  <a href="https://github.com/medioalanum/medioalanum.github.io/actions/workflows/deploy.yml"><img src="https://github.com/medioalanum/medioalanum.github.io/actions/workflows/deploy.yml/badge.svg" alt="Deploy site"></a>
+</p>
 
 Personal notes on Python, APIs, data, and software engineering.
 
