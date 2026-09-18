@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/medioalanum-notes.svg" alt="medioalanum notes" width="560">
+  <img src="./brand-banner.png" width="100%" alt="medioalanum — notes, ideas, practice, progress" />
 </p>
 
 <p align="center"><em>Notes on Python, APIs, data, and software engineering.</em></p>
