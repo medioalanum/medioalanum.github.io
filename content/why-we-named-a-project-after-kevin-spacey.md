@@ -1,4 +1,4 @@
-Title: Why We Named a Project After Kevin Spacey
+Title: Spacey: From Side Project to Business Case
 Date: 2026-09-22 10:00
 Category: Career
 Tags: product management, platforms, engineering collaboration, e-commerce, build vs buy
