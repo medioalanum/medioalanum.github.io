@@ -35,11 +35,6 @@ SOCIAL = (
         "https://www.linkedin.com/in/alanviana/",
         "Alan Viana on LinkedIn",
     ),
-    (
-        "Mastodon",
-        "https://hachyderm.io/@medioalanum",
-        "Alan Viana on Mastodon",
-    ),
 )
 
 DIRECT_TEMPLATES = ["index", "tags", "categories", "archives"]
