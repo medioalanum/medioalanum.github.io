@@ -1,7 +1,9 @@
 +++
 title = "The Day I Realized I'd Rather Ask \"Why\" Than \"How\""
 date = "2026-08-25"
-summary = "A quick introduction to who I am and how years of writing code and debating roadmaps led me here."\ncategory = "Career"\ntags = ["product management", "APIs", "platforms", "career"]
+summary = "A quick introduction to who I am and how years of writing code and debating roadmaps led me here."
+category = "Career"
+tags = ["product management", "APIs", "platforms", "career"]
 address = "/my-journey-so-far/"
 +++
 
