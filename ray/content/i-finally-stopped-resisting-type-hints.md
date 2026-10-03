@@ -1,6 +1,7 @@
 +++
 title = "I Finally Stopped Resisting Type Hints"
 date = "2026-08-26"
+reading_time = "4 min read"
 summary = "Why I stopped treating Python type hints as optional decoration, and how ty, Pydantic, and FastAPI made them part of the way I build software."
 category = "Data Engineering"
 tags = ["Python", "type hints", "FastAPI", "Pydantic", "tooling"]
