@@ -30,3 +30,6 @@ Preview: https://medioalanum.github.io/ray/
 ## Remaining differences
 
 Raymatic deliberately does not reproduce Pelican-only surfaces that are outside this preview slice, including reading-time metadata, RSS/archive/category index pages and Pelican's plugin architecture. These are product decisions to evaluate separately from visual parity.
+
+
+Visual comparison pass: aligned horizontal home navigation, abbreviated weekdays, and uppercase accent-colored categories with the editorial separator.
