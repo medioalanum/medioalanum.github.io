@@ -1,7 +1,9 @@
 +++
 title = "I Finally Stopped Resisting Type Hints"
 date = "2026-08-26"
-summary = "Why I stopped treating Python type hints as optional decoration, and how ty, Pydantic, and FastAPI made them part of the way I build software."\ncategory = "Data Engineering"\ntags = ["Python", "type hints", "FastAPI", "Pydantic", "tooling"]
+summary = "Why I stopped treating Python type hints as optional decoration, and how ty, Pydantic, and FastAPI made them part of the way I build software."
+category = "Data Engineering"
+tags = ["Python", "type hints", "FastAPI", "Pydantic", "tooling"]
 address = "/i-finally-stopped-resisting-type-hints/"
 +++
 
