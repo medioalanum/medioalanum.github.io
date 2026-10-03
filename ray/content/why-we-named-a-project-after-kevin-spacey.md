@@ -1,6 +1,7 @@
 +++
 title = "Spacey: From Side Project to Business Case"
 date = "2026-09-22"
+reading_time = "4 min read"
 summary = "How a failed vendor platform, a need for Marketing autonomy, and a working internal solution turned into a business case for building instead of buying."
 category = "Career"
 tags = ["product management", "platforms", "engineering collaboration", "e-commerce", "build vs buy"]
