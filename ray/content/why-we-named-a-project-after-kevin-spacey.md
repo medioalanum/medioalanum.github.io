@@ -1,7 +1,9 @@
 +++
 title = "Spacey: From Side Project to Business Case"
 date = "2026-09-22"
-summary = "How a failed vendor platform, a need for Marketing autonomy, and a working internal solution turned into a business case for building instead of buying."\ncategory = "Career"\ntags = ["product management", "platforms", "engineering collaboration", "e-commerce", "build vs buy"]
+summary = "How a failed vendor platform, a need for Marketing autonomy, and a working internal solution turned into a business case for building instead of buying."
+category = "Career"
+tags = ["product management", "platforms", "engineering collaboration", "e-commerce", "build vs buy"]
 address = "/why-we-named-a-project-after-kevin-spacey/"
 +++
 
